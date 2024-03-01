@@ -109,7 +109,7 @@ body {
 
 .apresentacao_links a:hover {
     cursor: pointer;
-    width: 378px;
+    width: 110%;
 
     background-color: var(--cor-hover);
 }
